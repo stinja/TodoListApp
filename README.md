@@ -24,7 +24,7 @@
 Bonus points if tasks get saved to a database, but not required
 
 ## Resources
-https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
-https://httpstatuses.com/
-https://express-validator.github.io/docs/
+https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4  
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods  
+https://httpstatuses.com/  
+https://express-validator.github.io/docs/  
