@@ -36,4 +36,5 @@ https://codeburst.io/writing-a-crud-app-with-node-js-and-mongodb-e0827cbbdafb
 
 ### useful repos (maybe)
 https://github.com/smallpaes/todo-list  
-https://github.com/cedricVu/express-todo-boilerplate
+https://github.com/cedricVu/express-todo-boilerplate  
+https://github.com/hyphaene/todos_crud_express  
