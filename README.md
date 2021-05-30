@@ -38,3 +38,5 @@ https://codeburst.io/writing-a-crud-app-with-node-js-and-mongodb-e0827cbbdafb
 https://github.com/smallpaes/todo-list  
 https://github.com/cedricVu/express-todo-boilerplate  
 https://github.com/hyphaene/todos_crud_express  
+https://github.com/deepak821/ToDo-List  
+https://github.com/KishanMaurya/MERN-Stack-Todo-App  
