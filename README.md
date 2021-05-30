@@ -28,3 +28,7 @@ https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods  
 https://httpstatuses.com/  
 https://express-validator.github.io/docs/  
+
+
+### stinja's additional resource grabs
+https://zellwk.com/blog/crud-express-mongodb/  
