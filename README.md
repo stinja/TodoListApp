@@ -34,4 +34,6 @@ https://express-validator.github.io/docs/
 https://zellwk.com/blog/crud-express-mongodb/  
 https://codeburst.io/writing-a-crud-app-with-node-js-and-mongodb-e0827cbbdafb  
 
-### useful repos
+### useful repos (maybe)
+https://github.com/smallpaes/todo-list  
+https://discord.com/channels/@me/705939990487629834/848661300796063835  
