@@ -1,0 +1,22 @@
+{
+  "name": "todolistapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stinja/TodoListApp.git"
+  },
+  "author": "stinja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stinja/TodoListApp/issues"
+  },
+  "homepage": "https://github.com/stinja/TodoListApp#readme",
+  "dependencies": {
+    "express-validator": "^6.11.1"
+  }
+}
